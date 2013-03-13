@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continue_button_x</key>
+	<string>860</string>
+	<key>continue_button_y</key>
+	<string>48</string>
+	<key>back_button_x</key>
+	<string>100</string>
+	<key>back_button_y</key>
+	<string>48</string>
+	<key>human.png_x</key>
+	<string>200</string>
+	<key>human.png_y</key>
+	<string>40</string>
+	<key>elf.png_x</key>
+	<string>300</string>
+	<key>elf.png_y</key>
+	<string>120</string>
+	<key>academy.png_x</key>
+	<string>400</string>
+	<key>academy.png_y</key>
+	<string>200</string>
+	<key>dwarf.png_x</key>
+	<string>500</string>
+	<key>dwarf.png_y</key>
+	<string>280</string>
+	<key>darkelf.png_x</key>
+	<string>600</string>
+	<key>darkelf.png_y</key>
+	<string>360</string>
+	<key>undead.png_x</key>
+	<string>700</string>
+	<key>undead.png_y</key>
+	<string>440</string>
+	<key>devil.png_x</key>
+	<string>800</string>
+	<key>devil.png_y</key>
+	<string>520</string>
+	<key>back_next_buttonword_relative_x</key>
+	<string>70</string>
+	<key>back_next_buttonword_relative_y</key>
+	<string>39</string>
+</dict>
+</plist>

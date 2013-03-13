@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>start_button_x</key>
+	<string>482</string>
+	<key>start_button_y</key>
+	<string>17</string>
+	<key>start_word_x</key>
+	<string>127</string>
+	<key>start_word_y</key>
+	<string>127</string>
+	<key>achievement_button_x</key>
+	<string>330</string>
+	<key>achievement_button_y</key>
+	<string>11</string>
+	<key>rank_button_x</key>
+	<string>223</string>
+	<key>rank_button_y</key>
+	<string>11</string>
+	<key>more_button_x</key>
+	<string>636</string>
+	<key>more_button_y</key>
+	<string>11</string>
+	<key>effect_button_x</key>
+	<string>838</string>
+	<key>effect_button_y</key>
+	<string>605</string>
+	<key>music_button_x</key>
+	<string>918</string>
+	<key>music_button_y</key>
+	<string>605</string>
+	<key>feedback_button_x</key>
+	<string>740</string>
+	<key>feedback_button_y</key>
+	<string>11</string>
+	<key>logo_x</key>
+	<string>179</string>
+	<key>logo_y</key>
+	<string>529</string>
+	<key>sina_or_facebook_x</key>
+	<string>44</string>
+	<key>sina_or_facebook_y</key>
+	<string>178</string>
+	<key>tencent_or_twitter_x</key>
+	<string>44</string>
+	<key>tencent_or_twitter_y</key>
+	<string>101</string>
+	<key>version_x</key>
+	<string>50</string>
+	<key>version_y</key>
+	<string>620</string>
+</dict>
+</plist>

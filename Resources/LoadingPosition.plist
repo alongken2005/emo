@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loading_bg_x</key>
+	<string>484</string>
+	<key>loading_bg_y</key>
+	<string>154</string>
+	<key>loading_1_x</key>
+	<string>262</string>
+	<key>loading_1_y</key>
+	<string>52</string>
+</dict>
+</plist>
